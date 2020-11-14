@@ -1,3 +1,3 @@
-module github.com/njzydark/gobyexamples
+module github.com/njzydark/gobyexample
 
 go 1.15
